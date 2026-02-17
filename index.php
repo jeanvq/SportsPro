@@ -78,7 +78,7 @@ require __DIR__ . '/views/header.php';
     </div>
     <div class="card-body">
         <div class="list-group list-group-flush">
-            <a href="registrations/register_product.php"
+            <a href="registrations/index.php"
                class="list-group-item list-group-item-action">
                 Register Product
             </a>
