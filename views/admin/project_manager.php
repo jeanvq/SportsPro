@@ -41,8 +41,17 @@ include '<views>header.php';
     </tbody>
 </table>
 
-<a href="add_product.php" class="btn btn-primary">
-    Add Product
-</a>
+
+<div class="mb-4">
+    <h3>Administrators</h3>
+    <a href="/SportsPro/views/admin/project_manager.php" class="btn btn-secondary mb-1">Manage Products</a><br>
+    <a href="/SportsPro/views/admin/manage_technicians.php" class="btn btn-secondary mb-1">Manage Technicians</a><br>
+    <a href="/SportsPro/views/admin/manage_customers.php" class="btn btn-secondary mb-1">Manage Customers</a><br>
+    <a href="/SportsPro/incidents/create_incident.php" class="btn btn-warning mb-1">Create Incident</a><br>
+    <a href="/SportsPro/views/admin/assign_incident.php" class="btn btn-secondary mb-1">Assign Incident</a><br>
+    <a href="/SportsPro/views/admin/display_incidents.php" class="btn btn-secondary mb-1">Display Incidents</a><br>
+    <a href="/SportsPro/views/admin/update_incident.php" class="btn btn-secondary mb-1">Update Incident</a><br>
+    <a href="/SportsPro/registrations/register_product.php" class="btn btn-success mb-1">Register Product</a><br>
+</div>
 
 <?php include '<views>footer.php'; ?>
