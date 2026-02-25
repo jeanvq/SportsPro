@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SportsPro Technical Support
 
 PHP/MySQL application for managing products, technicians, customers, and product registrations.
@@ -33,3 +34,49 @@ PHP/MySQL application for managing products, technicians, customers, and product
 ![App 2](screenshots/app2.png)
 ![App 3](screenshots/app3.png)
 ![App 4](screenshots/app4.png)
+
+![Incident 1](screenshots/incident1.png)
+![Incident 2](screenshots/incident2.png)
+![Incident 3](screenshots/incident3.png)
+=======
+# SportsPro
+
+Este proyecto es una aplicación web para gestión de clientes, técnicos, incidentes y productos.
+
+## Screenshots
+
+A continuación se muestran algunas capturas de pantalla:
+
+![Ejemplo de screenshot](screenshots/mi_screenshot.png)
+
+![Incidente 1](screenshots/incident1.png)
+![Incidente 2](screenshots/incident2.png)
+![Incidente 3](screenshots/incident3.png)
+
+Puedes agregar más imágenes en la carpeta screenshots y referenciarlas aquí usando la sintaxis:
+
+```
+![Descripción](screenshots/nombre_de_tu_imagen.png)
+```
+
+## Instalación
+
+1. Clona el repositorio en tu carpeta htdocs.
+2. Asegúrate de tener XAMPP y Apache corriendo.
+3. Accede a la aplicación en [http://localhost/SportsPro/](http://localhost/SportsPro/).
+
+## Estructura del proyecto
+
+- controllers/
+- customers/
+- db/
+- incidents/
+- models/
+- registrations/
+- technicians/
+- views/
+
+## Autor
+
+Tu nombre aquí.
+>>>>>>> ccfc11d (Agregar screenshots y actualizar README.md)
