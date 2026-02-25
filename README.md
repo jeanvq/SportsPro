@@ -31,4 +31,4 @@ PHP/MySQL application for managing products, technicians, customers, and product
 ![Incident 1](screenshots/incident1.png)
 ![Incident 2](screenshots/incident2.png)
 ![Incident 3](screenshots/incident3.png)
->>>>>>> ccfc11d (Agregar screenshots y actualizar README.md)
+
